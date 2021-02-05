@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at myFirstPGA.v(28): always construct contains both blocking and non-blocking assignments File: E:/Documents/ModelSim/Verilog_tutorial/myFirstPGA/myFirstPGA.v Line: 28
